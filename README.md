@@ -1,3 +1,4 @@
+store manager demo video link:https://drive.google.com/file/d/13bmMbrGBvwc4m2esewl_8Mm9Ejxpq-9Y/view?usp=sharing
 store manager document link pdf :https://drive.google.com/file/d/13fCfFRng7ep0qw_OXQdded-laNrlXgpi/view?usp=sharing
 # Getting Started with Create React App
 
